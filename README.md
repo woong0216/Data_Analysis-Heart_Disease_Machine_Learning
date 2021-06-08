@@ -1,5 +1,5 @@
 # Data_Analysis-Heart_Disease_Machine_Learning
 > Analysis
-- classification
+- Classification
 - Decision Tree Classification
 - Jupyter Python Programming
