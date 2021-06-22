@@ -1,4 +1,4 @@
-# Data_Analysis-Heart_Disease_Machine_Learning
+# Data Analysis for Heart Disease
 ## Propose
 - We want to identify significant variables for heart disease.
 - We want to classify heart disease patients into segments.
